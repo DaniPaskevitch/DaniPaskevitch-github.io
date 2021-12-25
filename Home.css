@@ -1,0 +1,1284 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home {
+	position: absolute;
+	width: 1920px;
+	height: 5396px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 1080px;
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 2160px;
+}
+#Rectangle_1 {
+	fill: rgba(255,239,214,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 5400px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_11 {
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_11 {
+	width: 1641px;
+	height: 241px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-700,700) rotate(-90deg);
+	transform-origin: center;
+}
+#Rectangle_51 {
+	fill: rgba(255,219,166,1);
+}
+.Rectangle_51 {
+	position: absolute;
+	overflow: visible;
+	width: 1209px;
+	height: 138px;
+	left: -780px;
+	top: 2326px;
+}
+#Rectangle_48 {
+	fill: rgba(255,249,240,1);
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 1323px;
+	height: 151px;
+	left: -854px;
+	top: 2282px;
+}
+#Rectangle_12 {
+	opacity: 0.7;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_12 {
+	width: 1325px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-384,625) rotate(-90deg);
+	transform-origin: center;
+}
+#Rectangle_52 {
+	fill: rgba(255,219,166,1);
+}
+.Rectangle_52 {
+	position: absolute;
+	overflow: visible;
+	width: 1482px;
+	height: 279px;
+	left: 769px;
+	top: 586px;
+}
+#Rectangle_13 {
+	opacity: 0.4;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_13 {
+	width: 1250px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-271.5,587.5) rotate(-90deg);
+	transform-origin: center;
+}
+#Rectangle_47 {
+	fill: rgba(255,249,240,1);
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 1432px;
+	height: 270px;
+	left: 720px;
+	top: 556px;
+}
+#Rectangle_14 {
+	opacity: 0.1;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_14 {
+	display: none;
+	width: 1175px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-159,550) rotate(-90deg);
+	transform-origin: center;
+}
+#Hello {
+	left: 121px;
+	top: 2292px;
+	position: absolute;
+	overflow: visible;
+	width: 1185px;
+	height: 131px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(73,64,60,1);
+	text-transform: lowercase;
+}
+#graphic_designer____art_direct {
+	left: 36px;
+	top: 739px;
+	position: absolute;
+	overflow: visible;
+	width: 1781px;
+	height: 64px;
+	text-align: right;
+	font-family: Sofia Pro Soft;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(73,64,60,1);
+}
+#I_am_Dani_Paskevitch_a_profess {
+	left: 118px;
+	top: 2493px;
+	position: absolute;
+	overflow: visible;
+	width: 1003px;
+	height: 380px;
+	text-align: left;
+	font-family: Sofia Pro Soft;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(73,64,60,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1309px;
+	height: 3px;
+	left: 522.5px;
+	top: 141.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#home {
+	left: 522px;
+	top: 53px;
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 131px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#work {
+	left: 752px;
+	top: 53px;
+	position: absolute;
+	overflow: visible;
+	width: 172px;
+	height: 131px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Work.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#about {
+	left: 988px;
+	top: 53px;
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 131px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#services {
+	left: 1242px;
+	top: 53px;
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 131px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Services.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#contact {
+	left: 1574px;
+	top: 53px;
+	position: absolute;
+	overflow: visible;
+	width: 258px;
+	height: 131px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Contact.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#Rectangle_15 {
+	opacity: 0.7;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 1679px;
+	height: 75px;
+	left: 241px;
+	top: 1248px;
+}
+#Rectangle_16 {
+	opacity: 0.4;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 1604px;
+	height: 75px;
+	left: 316px;
+	top: 1173px;
+}
+#Rectangle_17 {
+	opacity: 0.1;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 1529px;
+	height: 75px;
+	left: 391px;
+	top: 1098px;
+}
+#Rectangle_19 {
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 1697px;
+	height: 241px;
+	left: 223px;
+	top: 1323px;
+}
+#projects {
+	left: 604px;
+	top: 1335px;
+	position: absolute;
+	overflow: visible;
+	width: 1185px;
+	height: 131px;
+	text-align: right;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(255,239,214,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#Rectangle_20 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 419px;
+	height: 419px;
+	left: 163px;
+	top: 1505px;
+}
+#Rectangle_32 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 653px;
+	height: 568px;
+	left: 1197px;
+	top: 2235px;
+}
+#Rectangle_24 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 419px;
+	height: 419px;
+	left: -301px;
+	top: 1505px;
+}
+#Rectangle_21 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 419px;
+	height: 419px;
+	left: 626px;
+	top: 1505px;
+}
+#Rectangle_22 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 419px;
+	height: 419px;
+	left: 1090px;
+	top: 1505px;
+}
+#Rectangle_23 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 419px;
+	height: 419px;
+	left: 1553px;
+	top: 1505px;
+}
+#Group_1 {
+	position: absolute;
+	width: 547px;
+	height: 128px;
+	left: 687px;
+	top: 1987px;
+	overflow: visible;
+}
+#Rectangle_27 {
+	fill: rgba(255,219,166,1);
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 471px;
+	height: 128px;
+	left: 38px;
+	top: 0px;
+}
+#more_projects {
+	left: 0px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 548px;
+	height: 75px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Work.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#Group_2 {
+	position: absolute;
+	width: 547px;
+	height: 128px;
+	left: 331px;
+	top: 2980px;
+	overflow: visible;
+}
+#Rectangle_27_bj {
+	fill: rgba(255,219,166,1);
+}
+.Rectangle_27_bj {
+	position: absolute;
+	overflow: visible;
+	width: 471px;
+	height: 128px;
+	left: 38px;
+	top: 0px;
+}
+#more_details {
+	left: 0px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 548px;
+	height: 75px;
+	text-align: center;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#Rectangle_28 {
+	opacity: 0.7;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_28 {
+	width: 767px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1196,2945) rotate(180deg);
+	transform-origin: center;
+}
+#Rectangle_29 {
+	opacity: 0.4;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_29 {
+	width: 767px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1196,3020) rotate(180deg);
+	transform-origin: center;
+}
+#Rectangle_30 {
+	opacity: 0.1;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_30 {
+	width: 767px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1196,3095) rotate(180deg);
+	transform-origin: center;
+}
+#Rectangle_31 {
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_31 {
+	width: 767px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1196,2873) rotate(180deg);
+	transform-origin: center;
+}
+#Rectangle_33 {
+	opacity: 0.1;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_33 {
+	width: 1529px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-336,373) rotate(-90deg);
+	transform-origin: center;
+}
+#Rectangle_34 {
+	opacity: 0.7;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_34 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 75px;
+	left: 0px;
+	top: 3390px;
+}
+#Rectangle_39 {
+	opacity: 0.7;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_39 {
+	width: 1920px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,0,3931) rotate(180deg);
+	transform-origin: center;
+}
+#Rectangle_54 {
+	opacity: 0.7;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_54 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 75px;
+	left: -1110px;
+	top: 4471px;
+}
+#Rectangle_35 {
+	opacity: 0.4;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 75px;
+	left: 0px;
+	top: 3315px;
+}
+#Rectangle_40 {
+	opacity: 0.4;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_40 {
+	width: 1920px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,0,4006) rotate(180deg);
+	transform-origin: center;
+}
+#Rectangle_55 {
+	opacity: 0.4;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_55 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 75px;
+	left: -1110px;
+	top: 4396px;
+}
+#Rectangle_36 {
+	opacity: 0.1;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 75px;
+	left: 0px;
+	top: 3240px;
+}
+#Rectangle_41 {
+	opacity: 0.1;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_41 {
+	width: 1920px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,0,4082) rotate(180deg);
+	transform-origin: center;
+}
+#Rectangle_56 {
+	opacity: 0.1;
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_56 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 75px;
+	left: -1110px;
+	top: 4320px;
+}
+#Rectangle_37 {
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 75px;
+	left: 0px;
+	top: 3462px;
+}
+#Rectangle_42 {
+	fill: rgba(255,239,214,1);
+}
+.Rectangle_42 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 75px;
+	left: 0px;
+	top: 3535px;
+}
+#Rectangle_38 {
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_38 {
+	width: 1920px;
+	height: 75px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,0,3859) rotate(180deg);
+	transform-origin: center;
+}
+#Rectangle_53 {
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_53 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 75px;
+	left: -1110px;
+	top: 4543px;
+}
+#Rectangle_57 {
+	fill: rgba(105,169,178,1);
+}
+.Rectangle_57 {
+	width: 810px;
+	height: 787px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,0,4613) rotate(180deg);
+	transform-origin: center;
+}
+#Ellipse_1 {
+	fill: rgba(255,239,214,1);
+}
+.Ellipse_1 {
+	width: 385px;
+	height: 385px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1728,3388) rotate(180deg);
+	transform-origin: center;
+}
+#Ellipse_10 {
+	fill: rgba(255,239,214,1);
+}
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 385px;
+	height: 385px;
+	left: -192px;
+	top: 3623px;
+}
+#Ellipse_4 {
+	fill: rgba(255,239,214,1);
+}
+.Ellipse_4 {
+	width: 385px;
+	height: 385px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-192,3389) rotate(180deg);
+	transform-origin: center;
+}
+#Ellipse_9 {
+	fill: rgba(255,239,214,1);
+}
+.Ellipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 385px;
+	height: 385px;
+	left: 1728px;
+	top: 3622px;
+}
+#Ellipse_5 {
+	fill: rgba(255,219,166,1);
+}
+.Ellipse_5 {
+	width: 241px;
+	height: 240px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1800,3460) rotate(180deg);
+	transform-origin: center;
+}
+#Ellipse_11 {
+	fill: rgba(255,219,166,1);
+}
+.Ellipse_11 {
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	height: 240px;
+	left: -120px;
+	top: 3696px;
+}
+#Ellipse_7 {
+	fill: rgba(255,219,166,1);
+}
+.Ellipse_7 {
+	width: 241px;
+	height: 240px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-120,3460) rotate(180deg);
+	transform-origin: center;
+}
+#Ellipse_8 {
+	fill: rgba(255,219,166,1);
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	height: 240px;
+	left: 1800px;
+	top: 3696px;
+}
+#Rectangle_43 {
+	fill: rgba(255,239,214,1);
+}
+.Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 214px;
+	left: 0px;
+	top: 3572px;
+}
+#Rectangle_44 {
+	fill: rgba(255,239,214,1);
+}
+.Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 206px;
+	left: 0px;
+	top: 3622px;
+}
+#branding__identity {
+	left: 196px;
+	top: 3469px;
+	position: absolute;
+	overflow: visible;
+	width: 546px;
+	height: 66px;
+	text-align: center;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#Logo__Identity__Style_Guide__P {
+	left: 196px;
+	top: 3560px;
+	position: absolute;
+	overflow: visible;
+	width: 711px;
+	height: 160px;
+	line-height: 55px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+}
+#Name {
+	left: 984px;
+	top: 4358px;
+	position: absolute;
+	overflow: visible;
+	width: 711px;
+	height: 144px;
+	line-height: 55px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+}
+#Email {
+	left: 984px;
+	top: 4502px;
+	position: absolute;
+	overflow: visible;
+	width: 711px;
+	height: 146px;
+	line-height: 55px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+}
+#Phone {
+	left: 984px;
+	top: 4646px;
+	position: absolute;
+	overflow: visible;
+	width: 711px;
+	height: 146px;
+	line-height: 55px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+}
+#Subject {
+	left: 984px;
+	top: 4790px;
+	position: absolute;
+	overflow: visible;
+	width: 711px;
+	height: 163px;
+	line-height: 55px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+}
+#Message {
+	left: 984px;
+	top: 4934px;
+	position: absolute;
+	overflow: visible;
+	width: 711px;
+	height: 160px;
+	line-height: 55px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+}
+#Feel_free_to_leave_me_a_messag {
+	left: 88px;
+	top: 4988px;
+	position: absolute;
+	overflow: visible;
+	width: 638px;
+	height: 337px;
+	line-height: 55px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(255,239,214,1);
+	letter-spacing: 0.75px;
+}
+#Product_Photography__Retouch_P {
+	left: 905px;
+	top: 3560px;
+	position: absolute;
+	overflow: visible;
+	width: 820px;
+	height: 160px;
+	line-height: 55px;
+	margin-top: -12.5px;
+	text-align: right;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+}
+#Editorial_Illustrations__Lands {
+	left: 196px;
+	top: 3732px;
+	position: absolute;
+	overflow: visible;
+	width: 765px;
+	height: 96px;
+	line-height: 55px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+}
+#Wireframing__UI__UX_Design__Pr {
+	left: 984px;
+	top: 3732px;
+	position: absolute;
+	overflow: visible;
+	width: 745px;
+	height: 100px;
+	line-height: 55px;
+	margin-top: -12.5px;
+	text-align: right;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+}
+#website_design {
+	left: 1174px;
+	top: 3864px;
+	position: absolute;
+	overflow: visible;
+	width: 546px;
+	height: 66px;
+	text-align: right;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#Group_3 {
+	position: absolute;
+	width: 547px;
+	height: 128px;
+	left: 1112px;
+	top: 5206px;
+	overflow: visible;
+}
+#Rectangle_27_cr {
+	fill: rgba(255,219,166,1);
+}
+.Rectangle_27_cr {
+	position: absolute;
+	overflow: visible;
+	width: 471px;
+	height: 128px;
+	left: 38px;
+	top: 0px;
+}
+#submit {
+	left: 0px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 548px;
+	height: 75px;
+	text-align: center;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#Group_4 {
+	position: absolute;
+	width: 547px;
+	height: 128px;
+	left: 633px;
+	top: 4093px;
+	overflow: visible;
+}
+#Rectangle_27_cu {
+	fill: rgba(255,219,166,1);
+}
+.Rectangle_27_cu {
+	position: absolute;
+	overflow: visible;
+	width: 471px;
+	height: 128px;
+	left: 38px;
+	top: 0px;
+}
+#all_services {
+	left: 0px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 548px;
+	height: 75px;
+	text-align: center;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#social_media_content {
+	left: 1104px;
+	top: 3471px;
+	position: absolute;
+	overflow: visible;
+	width: 621px;
+	height: 66px;
+	text-align: right;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#ILLUSTRATION__ICONOGRAPHY {
+	left: 196px;
+	top: 3864px;
+	position: absolute;
+	overflow: visible;
+	width: 819px;
+	height: 66px;
+	text-align: left;
+	font-family: Sofia Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(73,64,60,1);
+	letter-spacing: 0.75px;
+	text-transform: uppercase;
+}
+#Dani_Paskevitch {
+	left: 966px;
+	top: 608px;
+	position: absolute;
+	overflow: visible;
+	width: 851px;
+	height: 131px;
+	text-align: right;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(73,64,60,1);
+	text-transform: lowercase;
+}
+#lets_work__together {
+	left: 85px;
+	top: 4657px;
+	position: absolute;
+	overflow: visible;
+	width: 624px;
+	height: 245px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(255,239,214,1);
+	text-transform: lowercase;
+}
+#Rectangle_58 {
+	fill: rgba(255,249,240,1);
+	stroke: rgba(73,64,60,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 57px;
+	left: 984px;
+	top: 4411px;
+}
+#Rectangle_63 {
+	fill: rgba(255,249,240,1);
+	stroke: rgba(73,64,60,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_63 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 57px;
+	left: 984px;
+	top: 4555px;
+}
+#Rectangle_64 {
+	fill: rgba(255,249,240,1);
+	stroke: rgba(73,64,60,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_64 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 57px;
+	left: 984px;
+	top: 4699px;
+}
+#Rectangle_65 {
+	fill: rgba(255,249,240,1);
+	stroke: rgba(73,64,60,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_65 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 57px;
+	left: 984px;
+	top: 4843px;
+}
+#Rectangle_62 {
+	fill: rgba(255,249,240,1);
+	stroke: rgba(73,64,60,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_62 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 188px;
+	left: 984px;
+	top: 4984px;
+}
